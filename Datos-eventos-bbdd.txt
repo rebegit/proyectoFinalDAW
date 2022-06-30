@@ -1,0 +1,53 @@
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Clásica: Arpa', '2022-07-01', '12:00:00', '3', '1', 'musica_01');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Jazz y Blues', '2022-07-01', '14:00:00', '3', '2', 'musica_02');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Flamenco', '2022-07-01', '16:00:00', '3', '3', 'musica_03');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Clasica: Piano', '2022-07-01', '18:00:00', '3', '4', 'musica_04');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'The Beatles', '2022-07-01', '20:00:00', '3', '5', 'musica_05');
+
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Comedia: Burundanga', '2022-07-01', '13:00:00', '2', '6', 'teatro_01');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Drama: Ser o no ser', '2022-07-01', '15:00:00', '2', '1', 'teatro_02');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Comedia: Pareja abierta', '2022-07-01', '20:00:00', '2', '2', 'teatro_03');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Monólogo: El premio', '2022-07-01', '22:00:00', '2', '2', 'teatro_04');
+
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Terror', '2022-07-01', '22:00:00', '1', '6', 'tematica_01');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'En Hawaii', '2022-07-01', '14:00:00', '1', '6', 'tematica_02');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Su majestad', '2022-07-01', '22:00:00', '1', '6', 'tematica_03');
+
+
+
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Indie', '2022-07-02', '12:00:00', '3', '2', 'musica_06');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Familia de percusión', '2022-07-02', '14:00:00', '3', '3', 'musica_07');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Flamenco', '2022-07-02', '16:00:00', '3', '4', 'musica_08');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Pop-Rock', '2022-07-02', '18:00:00', '3', '5', 'musica_9');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Abba', '2022-07-02', '20:00:00', '3', '6', 'musica_10');
+
+
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Comedia: Viviendo juntos', '2022-07-02', '13:00:00', '2', '6', 'teatro_05');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Psicológico: Pentematicaos', '2022-07-02', '15:00:00', '2', '1', 'teatro_06');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Monólogo: un negocio rentable ', '2022-07-02', '20:00:00', '2', '2', 'teatro_07');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Show de Magia', '2022-07-02', '22:00:00', '2', '2', 'teatro_08');
+
+
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, '3D', '2022-07-02', '14:00:00', '1', '3', 'tematica_04');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Su majestad', '2022-07-02', '14:00:00', '1', '3', 'tematica_05');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Terror', '2022-07-02', '22:00:00', '1', '3', 'tematica_06');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Sensaciones', '2022-07-02', '22:00:00', '1', '5', 'tematica_07');
+
+
+
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Flamenco', '2022-07-03', '12:00:00', '3', '1', 'musica_11');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Pop', '2022-07-03', '14:00:00', '3', '2', 'musica_12');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Familia de percusión', '2022-07-03', '16:00:00', '3', '3', 'musica_13');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Familia de viento', '2022-07-03', '18:00:00', '3', '4', 'musica_14');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Vetusta Morla', '2022-07-03', '20:00:00', '3', '5', 'musica_15');
+
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Show de Magia', '2022-07-03', '13:00:00', '2', '6', 'teatro_09');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Comedia: ¿Con que lenguaje debo empezar?', '2022-07-03', '15:00:00', '2', '2', 'teatro_10');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Drama: Método Grönholm', '2022-07-03', '20:00:00', '2', '3', 'teatro_11');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Drama: Entre copas', '2022-07-03', '22:00:00', '2', '3', 'teatro_12');
+
+
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Su majestad', '2022-07-03', '14:00:00', '1', '4', 'tematica_08');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, '3D', '2022-07-03', '14:00:00', '1', '1', 'tematica_09');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Terror', '2022-07-03', '20:00:00', '1', '1', 'tematica_10');
+INSERT INTO `proyectofinal`.`eventos` (`evento_id`, `nombre`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Hawaii', '2022-07-03', '20:00:00', '1', '1', 'tematica_11');
